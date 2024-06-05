@@ -23,7 +23,7 @@ EJEMPLOS :
 ####### Encabezado nivel 1 - Similar a H1 en HTML - Solo son 6 niveles, a partir de este el maquetado
 sera ignorado.
 
-## Separadores (Separators) 
+## Separadores (Separators)
 Si desea marcar una separación  más visual de contenidos podemos utilizarlos indicando tres caracteres de "-" continuos,
 en el maquetado
 
