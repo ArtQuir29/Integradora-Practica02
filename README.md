@@ -12,6 +12,8 @@ Para poder ealizar una buena documentación del proyecto debemos, dsitribuir cor
 contenidos,  para poder delimitar o hacer enfasis (enfatizar), es decir, resaltar las secciones 
 importantes, podemos utilizar lo siguiente:
 
+EJEMPLOS :
+
 # Encabezado nivel 1 - Similar a H1 en HTML
 ## Encabezado nivel 1 - Similar a H1 en HTML
 ### Encabezado nivel 1 - Similar a H1 en HTML
