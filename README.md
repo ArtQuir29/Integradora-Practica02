@@ -103,5 +103,118 @@ En este caso existen dos formas de hacerlo, como cursiva en negrita y anidada o 
 
 **__Todo este texto es importante__**
 
+#Integradora-Practica 03
+seguimos con los comandos basicos de Git y Github para el maquetadodel documentacion
+
+### 5. Cuadros para codigo o reseñas (BLOCKQUOTES)
+Estos elementos son utilizados para resaltar instrucciones especificas para la 
+instalacion, configuracion y/o inicializacion o mostrar secciones de codigo
+fuente.
+
+**EJEMPLO** 
+Pra listar las carpetas y archivos desde la terminal de sistema operativo 
+windows debemos ingresar el comando 
+
+> C:/dir
+
+Despues oprimimos la tecla "enter"
+
+Tambien po0demos usar los textos multilinea
+
+**EJEMPLO**
+
+>Aqui se ingresa un conjunto de instrucciones 
+>para explicaral usuario, como instalar el
+software que hemos diseñado 
+
+Y si deseamos utlizar viñetas para enlistar pasos podemos ultizar el caracter 
+-dentro del texto a documentar.
+
+**EJEMPLO**
+
+**Pasos para Instalar la Base de Datos**
+
+>- Descargar MySQL desde el sitio oficial
+>- Instalar el sistema de gestor de base de datos, definiendo el puerto y 
+contraseña para el usuario ***root***
+>- Descargamos el archivo de respaldo de la base de datos *mysql*
+>> C:Program Files/MySQL/MySQL Server 8.0/bin/mysql - u root -p password \<
+respaldo.sql
+
+## 6. Listas Ordenadas y Listas Desordenandas
+Si en nuetsra documentacion queremos incluir informacion en modo lista,
+un elemento tras otro podemos hacerlo utilizando los numeros con punto
+decimal si las deseamos ordenadas o un guion medio - si solo queremos una
+viñeta
+
+**EJEMPLO**
+
+Para crear tu primer repositorio en GitHub deberas:
+
+1. Contar con una cuneta GitHub.
+1. Dar click en el boton: "*Nuevo Repositorio"
+2. Asignarle un nombre a tu repositorio, Por ejemplo "practica-3b"
+8. Asignarle un nivel de privacidad entre
+-**Publico:** Si quieres que este disponible para todos los usuario.
+-**Privado:** Si deseas que solo a quien tu decidas puedan y colaborar con tu proyecto.
+10. Definir si incluye un archivo  de descripcion llamado: *README.nd*
+50. Definir si habra  exclusiones de archivo a traves del archivo *gitignore*
+3. Guardar los cambios.
+
+
+#### Ligas (HIPERVINCULOS)
+
+Las ligas son para vincular elementos o referencias del proyeco
+dentro del mismo repositorio o fuera de el y maquetan utilizando
+corchetes Pra listar las carpetas y archivos desde la terminal de sistema operativo 
+windows debemos ingresar el comando 
+
+> C:/dir
+
+Despues oprimimos la tecla "enter"
+
+Tambien po0demos usar los textos multilinea
+
+**EJEMPLO**
+
+>Aqui se ingresa un conjunto de instrucciones 
+>para explicaral usuario, como instalar el
+software que hemos diseñado 
+
+Y si deseamos utlizar viñetas para enlistar pasos podemos ultizar el caracter 
+-dentro del texto a documentar.
+
+**EJEMPLO**
+
+**Pasos para Instalar la Base de Datos**
+
+>- Descargar MySQL desde el sitio oficial
+>- Instalar el sistema de gestor de base de datos, definiendo el puerto y 
+contraseña para el usuario ***root***
+>- Descargamos el archivo de respaldo de la base de datos *mysql*
+>> C:Program Files/MySQL/MySQL Server 8.0/bin/mysql - u root -p password \<
+respaldo.sql
+
+## 6. Listas Ordenadas y Listas Desordenandas
+Si en nuetsra documentacion queremos incluir informacion en modo lista,
+un elemento tras otro podemos hacerlo utilizando los numeros con punto
+decimal si las deseamos ordenadas o un guion medio - si solo queremos una
+viñeta
+
+**EJEMPLO**
+
+Para crear tu primer repositorio en GitHub deberas:
+
+1. Contar con una cuneta GitHub.
+1. Dar click en el boton: "*Nuevo Repositorio"
+2. Asignarle un nombre a tu repositorio, Por ejemplo "practica-3b"
+8. Asignarle un nivel de privacidad entre
+-**Publico:** Si quieres que este disponible para todos los usuario.
+-**Privado:** Si deseas que solo a quien tu decidas puedan y colaborar con tu proyecto.
+10. Definir si incluye un archivo  de descripcion llamado: *README.nd*
+50. Definir si habra  exclusiones de archivo a traves del archivo *gitignore*
+3. Guardar los cambios.
+
+
 
 
