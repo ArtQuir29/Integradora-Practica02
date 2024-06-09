@@ -224,5 +224,11 @@ parentesis \( \)
 ** EJEMPLO **
 Mi buscador favorito es: [Google] (https://www.google.com).
 
+Pero si deseamos solo colocar las lineas directas o un coreo electronico podemos
+utilizar los simbolos \< \>
+
+** EJEMPLO **
+Documentacion creada por: 
+
 
 
