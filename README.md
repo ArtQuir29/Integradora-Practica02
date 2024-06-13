@@ -271,6 +271,11 @@ para las celdas, y en ellos utilizar la propiedad de *colspon* y *rowspon*
   <th>Encabezado 2</th>
   <th>Encabezado 3</th>
  </tr>
+ <tr>
+  <td>Fila 1 Celda 1</td>
+  <td>Fila 1 Celda 2</td>
+  <td>Fila 1 Celda 3</td>
+ </tr>
 </table>
 
 
