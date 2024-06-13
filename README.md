@@ -230,7 +230,21 @@ utilizar los simbolos \< \>
 ** EJEMPLO **
 Documentacion creada por: 
 
-## Imagenes 
+## 8. Tablas  (Tables)
+
+Si la presentacion lo requiere podemos representar informacion en formato de tabla con filas y 
+columnas, para maquetarla podemos utilizar el caracter \| para delifitar las columnas y \- para
+delimitar filas 
+
+** EJEMPLO **
+
+| Encabezado 1 | Encabezado 2 | Encabezado 3 | Encabezado 4 |
+|--------------|--------------|--------------|--------------|
+|Fila 1 Celda 1|Fila 1 Celda 2|Fila 1 Celda 3|Fila 1 Celda 4|
+|Fila 2 Celda 1|Fila 2 Celda 2|Fila 2 Celda 3|Fila 2 Celda 4|
+|Fila 3 Celda 1|Fila 3 Celda 2|Fila 3 Celda 3|Fila 3 Celda 4|
+
+
 
 
 
