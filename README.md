@@ -253,7 +253,7 @@ y en el caso de fusion de filas usamos la propiedad *rowspon*
 | Encabezado 1 | Encabezado 2 | Encabezado 3 | Encabezado 4 |
 |--------------|--------------|--------------|--------------|
 |Fila 1 Celda 1|Fila 1 Celda 2|Fila 1 Celda 3|Fila 1 Celda 4|
-|Fila 2 Celda 1<td colspon=2> Fila 2 Celda 2|Fila 2 Celda 3|
+|Fila 2 Celda 1<td colspan=2> Fila 2 Celda 2|Fila 2 Celda 3|
 |Fila 3 Celda 1|Fila 3 Celda 2|Fila 3 Celda 3|Fila 3 Celda 4|
 |              |Fila 4 Celda 2|Fila 4 Celda 3|Fila 4 Celda 4|
 |              |Fila 5 Celda 2|Fila 5 Celda 3|Fila 5 Celda 4|
@@ -270,14 +270,53 @@ para las celdas, y en ellos utilizar la propiedad de *colspon* y *rowspon*
   <th>Encabezado 1</th>
   <th>Encabezado 2</th>
   <th>Encabezado 3</th>
+  <th>Encabezado 4</th>
  </tr>
- <tr>
-  <td>Fila 1 Celda 1</td>
-  <td>Fila 1 Celda 2</td>
-  <td>Fila 1 Celda 3</td>
- </tr>
+<tr>
+<td>Fila 1 encabezado celda 1 </td>
+<td>Fila 1 encabezado celda 2 </td>
+<td>Fila 1 encabezado celda 3 </td>
+<td>Fila 1 encabezado celda 4 </td>
+</tr>
+
+<tr>
+<tr> Fila 2 celda 1</td>
+<td colspan=3 align="center"> Fila 2 celda 2</td>
+</tr>
+
+<tr>
+<td rowspan=3>Fila 3 celda 1</td>
+<td> Fila 3 celda 2</td>
+<td> Fila 3 celda 3</td>
+<td> Fila 3 celda 4</td> 
+</tr>
+
+<tr>
+<td>Fila 4 celda 2</td>
+<td>Fila 4 celda 3</td>
+<td>Fila 4 celda 4</td>
+</tr>
+
+<tr>
+<td>Fila 5 celda 2</td>
+<td>Fila 5 celda 3</td>
+<td>Fila 5 celda 4</td>
+</tr>
+
+<tr>
+<td>Fila 6 celda 1</td>
+<td>Fila 6 celda 2</td>
+<td>Fila 6 celda 3</td>
+<td>Fila 6 celda 4</td>
+</tr>
+
 </table>
 
+#### 9. Imágenes
+
+Si la documentación requiere de implementar imágenes, esquemas, modelos, fotografías, o cualquier representación grafica utilizaremos la estructura de la liga maquetando el nombre de la imagen entre corchetes con un signo de admiración de cierre y la liga de referencia a la imagen usando paréntesis.
+
+**EJEMPLO:**
 
 
 
