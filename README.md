@@ -259,7 +259,19 @@ y en el caso de fusion de filas usamos la propiedad *rowspon*
 |              |Fila 5 Celda 2|Fila 5 Celda 3|Fila 5 Celda 4|
 |Fila 6 Celda 1|Fila 6 Celda 2|Fila 6 Celda 3|Fila 6 Celda 4|
 
+Dado que en el ejemplo pasado usando solo markdown no se puede usar la fusion de filas debemos
+usar el estandar html, usando los tags: \<th> para los encabezados, \<tr> para las filas t <td>
+para las celdas, y en ellos utilizar la propiedad de *colspon* y *rowspon* 
 
+**EJEMPLO**
+
+<table>
+ <tr>
+  <th>Encabezado 1</th>
+  <th>Encabezado 2</th>
+  <th>Encabezado 3</th>
+ </tr>
+</table>
 
 
 
