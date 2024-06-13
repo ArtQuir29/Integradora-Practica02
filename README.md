@@ -318,7 +318,7 @@ Si la documentación requiere de implementar imágenes, esquemas, modelos, fotog
 
 **EJEMPLO:**
 
-<img src=https://raw.githubusercontent.com/ArtQuir29/main/pikachu.jpg>
+<img src=https://raw.githubusercontent.com/ArtQuir29/Integradora-Practica02/main/pikachu.jpg>
 
 
 
