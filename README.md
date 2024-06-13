@@ -318,6 +318,8 @@ Si la documentación requiere de implementar imágenes, esquemas, modelos, fotog
 
 **EJEMPLO:**
 
+<img src=https://raw.githubusercontent.com/ArtQuir29/main/pikachu.jpg>
+
 
 
 
